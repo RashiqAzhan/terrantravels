@@ -1,0 +1,34 @@
+
+Terran TravelsWhite Paperby Rashiq Azhan171-35-2076
+SWE 131
+
+
+ABSTRACT
+The purpose of this white paper is to outline the key advantages this system has over its competitors. All the one-stop-solutions the system provides, easy diagnosis of end point failures, safety mechanisms, and client satisfaction features will be described in the following sections.
+
+
+CHALLENGE
+The challenges faced by the system are as follows:
+I. Traveler satisfaction: The traveler must be satisfied with the interaction process. It should be organic and intuitive, enhancing their stay and experience. 
+II. Traveler safety: It is dangerous in space and the system should always be proactive in identifying threats posed to the traveler. E.g. opening pressurized doors may cause hull damage and so the system should prevent a traveler from opening such by issuing warnings in the event of a mismatched clearance.
+III. Automation of daily activities: Daily activities such as food ordering, sightseeing bookings, entertainment bookings, reminders should be automatable and taken care by the system without human interactions.
+IV. Multiple options for customer: Multiple options are provided to the user so that they can choose the path they want to take.
+
+
+PRODUCT DESIGN
+The user gets multiple ways to interact with the system. It responds to voice, touch, and gestures. It also reacts to its environments and will act accordingly. So, if the traveler does something to risk injury to themselves and others or if they endanger the safety of the ship, it will respond to that as well. The system itself interacts with the users with the use of voice, haptic feedback, visual changes, holograms to name a few.
+To meet the various demands of the traveler, it will be filled to the brim with features and ways to customize every single aspect of it to their liking.
+
+
+SOLUTION
+The system regards the traveler’s safety by constantly monitoring feeds from videos and other equipment to prevent disasters from occurring in the first place. The system will five out verbal warnings against infractions and if that does not deter the actor, the responsible authorities aboard the ship are notified.
+Customizability of the traveler lounge had been tuned to the max. With gradual control of frequency, wavelength, time period, intensity, and flux of the visible electromagnetic spectrum emitters, the traveler can adjust the center, accent, and ambient lighting to their needs and requirements.
+Common activities such as booking destinations are linear and can quickly accessed through the menu. This means the customer spends more time picking their favorite destination than booking the system.
+
+
+The user can send parcels around the spaceship and can receive them too. They too have a linear path but can be customized by the customer if they choose such as automated delivery, timed delivery, gifts, et cetera.
+
+
+CONCLUSION
+It meets the demands of the travelers and the employees that will be using it. It has been built from the ground up keeping their demands and needs in mind. It has been built with safety and security in mind without interrupting the daily flow of activities. It will streamline complex tasks, and automate simple ones on its own.
+This system is like no other. It is the output of a pioneering company, the first of its kind. It is had no peers and is second to none.
